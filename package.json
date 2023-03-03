@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -34,5 +35,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "git+ssh://git@github.com/FrontendCfj/geek-pc-cfj.git",
+  "author": "ChenFeijian <534688737@qq.com>",
+  "license": "MIT",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "bugs": {
+    "url": "https://github.com/FrontendCfj/geek-pc-cfj/issues"
+  },
+  "homepage": "https://github.com/FrontendCfj/geek-pc-cfj#readme"
 }
